@@ -1,0 +1,15 @@
+table{
+	font-family: helvetica, sans-serif;
+	border-collapse: collapse;
+	border-color: violet;
+	border-width: 1px;
+	border-style: solid;
+}
+
+th{
+	font-weight:800;
+	background-color: violet;
+}
+td{
+	text-decoration: line-through;
+}
